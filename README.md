@@ -14,7 +14,7 @@ will be replaced with:
 
   * [Joachim Jakob, 2017](https://quizdidaktik.de/moodle_plugins/)
   
-  ![Kennzeichnung](01_Filter_Kennzeichnung.png)
+  ![Kennzeichnung](01_Filter_Kennzeichnung_in_Textfeld.png)
   ![Vorschau](02_Filter_Wirkung_Vorschau.png)
 
 
